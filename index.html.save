@@ -1,0 +1,51 @@
+<!DOCTYPE html>
+<html lang="mn">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>ОНЦ БОЛОВСРОЛ – Хичээлийн хоцрогдлыг арилгах апп</title>
+    <style>
+        body {
+            font-family: Arial, sans-serif;
+            margin: 0;
+            padding: 0;
+            background-color: #f4f4f4;
+            text-align: center;
+        }
+        header {
+            background: #007BFF;
+            color: white;
+            padding: 20px;
+            font-size: 24px;
+        }
+        section {
+            padding: 20px;
+        }
+        .btn {
+            background: #007BFF;
+            color: white;
+            padding: 10px 20px;
+            text-decoration: none;
+            border-radius: 5px;
+        }
+        .btn:hover {
+            background: #0056b3;
+        }
+    </style>
+</head>
+<body>
+    <header>
+        ОНЦ БОЛОВСРОЛ – Хичээлийн хоцрогдлыг арилгах апп
+    </header>
+    <section>
+        <h1>Бага ангийн сурагчдын хичээлийн хоцрогдлыг арилгах шилдэг шийдэл!</h1>
+        <p>📚 4, 5-р ангийн сурагчдад зориулсан онлайн сургалтын платформ.</p>
+        <p>🎓 Хүүхдийнхээ хичээлийг мэргэжлийн арга барилаар ойлгуулах боломж.</p>
+        <a href="#" class="btn">Апп татах</a>
+    </section>
+    <footer>
+        <p>&copy; 2025 ОНЦ БОЛОВСРОЛ. Бүх эрх хуулиар хамгаалагдсан.</p>
+    </footer>
+</body>
+</html>
+
